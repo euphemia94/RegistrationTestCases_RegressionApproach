@@ -1,0 +1,10 @@
+﻿2. Describe your approach to regression testing after a code update on a checkout feature.
+
+
+My Approach to Regression Testing
+1. Review Code Changes: I will start by reviewing the update details to understand the specific areas affected in the checkout feature, such as payment processing, or shipping options.
+2. Identify Critical Test Cases: After understanding the areas, i will identify high-priority test cases covering critical checkout functionalities.
+3. Execute Test Cases for Impacted Areas: The next step is to run targeted regression tests for affected areas.
+Broader Regression Testing: i will run additional tests on surrounding modules that interact with the checkout process, such as user profiles, inventory updates, and order history, to catch any indirect effects of the update.
+4. Automated Tests: Run automated test scripts for the checkout flow and other linked features, to validate that key processes still function as expected after the update.
+5. Reporting: After tests are complete, I will document any findings and confirm that all tests pass without issues.
