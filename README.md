@@ -27,7 +27,7 @@ Preconditions: Setup requirements.
 Test Steps: Step-by-step instructions.
 Test Data: Data used in the test.
 Expected Result: Expected outcome for a successful test.
-To view the test cases, open the RegressionForm_TestCases.csv file.
+To view the test cases, open the RegressionForm_TestCases
 
 Regression Testing Approach
 The regression testing approach focuses on maintaining checkout feature stability after code updates. Key steps include:
