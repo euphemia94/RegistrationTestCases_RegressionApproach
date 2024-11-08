@@ -1,12 +1,14 @@
 # RegistrationTestCases_RegressionApproach
-QA Assessment: Registration Form Test Cases and Regression Testing Approach
+QA Assessment: Registration Form Test Cases and Regression Testing Approach.
+
 This repository includes test cases for a registration form, with fields for Name, Email, and Password, and a structured approach for regression testing after updates to a checkout feature.
 
-Table of Contents
-Project Overview
-Test Cases
-Regression Testing Approach
-How to Access Files
+Table of Contents:
+1. Project Overview
+2. Test Cases
+3. Regression Testing Approach
+4. How to Access Files
+
 Project Overview
 This project documents test cases and regression testing strategies using Google Sheets and Google Docs, converted to .csv format for easy access and versioning.
 
