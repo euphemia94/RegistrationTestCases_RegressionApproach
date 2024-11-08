@@ -34,3 +34,8 @@ Identify Changes: Determine which parts of the code were modified.
 Prioritize Tests: Select high-priority test cases for the affected areas.
 Execute Tests: Run selected tests to confirm functionality is intact.
 Refer to the Approach_To_RgressionTesting.txt file for detailed steps.
+
+How to Access Files
+Clone this repository:
+Open test_cases.csv and regression_approach.csv to view test details and the regression approach.
+
